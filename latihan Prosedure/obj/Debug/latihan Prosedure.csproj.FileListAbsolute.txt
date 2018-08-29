@@ -1,0 +1,12 @@
+D:\Latihan Visual Studio 2012\latihan Prosedure\latihan Prosedure\bin\Debug\latihan Prosedure.exe.config
+D:\Latihan Visual Studio 2012\latihan Prosedure\latihan Prosedure\bin\Debug\latihan Prosedure.exe
+D:\Latihan Visual Studio 2012\latihan Prosedure\latihan Prosedure\bin\Debug\latihan Prosedure.pdb
+D:\Latihan Visual Studio 2012\latihan Prosedure\latihan Prosedure\obj\Debug\latihan Prosedure.csprojResolveAssemblyReference.cache
+D:\Latihan Visual Studio 2012\latihan Prosedure\latihan Prosedure\obj\Debug\latihan Prosedure.exe
+D:\Latihan Visual Studio 2012\latihan Prosedure\latihan Prosedure\obj\Debug\latihan Prosedure.pdb
+C:\Users\arbi\Downloads\downloud wa\latihan Prosedure\latihan Prosedure\latihan Prosedure\bin\Debug\latihan Prosedure.exe.config
+C:\Users\arbi\Downloads\downloud wa\latihan Prosedure\latihan Prosedure\latihan Prosedure\obj\Debug\latihan Prosedure.exe
+C:\Users\arbi\Downloads\downloud wa\latihan Prosedure\latihan Prosedure\latihan Prosedure\obj\Debug\latihan Prosedure.pdb
+C:\Users\arbi\Downloads\downloud wa\latihan Prosedure\latihan Prosedure\latihan Prosedure\bin\Debug\latihan Prosedure.exe
+C:\Users\arbi\Downloads\downloud wa\latihan Prosedure\latihan Prosedure\latihan Prosedure\bin\Debug\latihan Prosedure.pdb
+C:\Users\arbi\Downloads\downloud wa\latihan Prosedure\latihan Prosedure\latihan Prosedure\obj\Debug\latihan Prosedure.csprojResolveAssemblyReference.cache
