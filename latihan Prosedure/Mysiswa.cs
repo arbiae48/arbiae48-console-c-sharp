@@ -14,6 +14,7 @@ namespace latihan_Prosedure
 
         public void TambahTotalBayar(int jumlahUang)
         {
+            //totalbayar = totalbayar + jumlahuang;
             TotalBayar += jumlahUang;
         }
 
